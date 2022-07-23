@@ -9,7 +9,7 @@
  * ATA  = Anruf annehmen
  * ATH  = Anruf beenden
  * 
- * by Lukas Lück, 01.2021
+ * by Lukas Lueck, 01.2021
 */
 
 #include <SoftwareSerial.h>
