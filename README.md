@@ -14,4 +14,4 @@ Hinweis: Das Verbauen und Betreiben des Moduls im Fahrzeug erfolgt auf eigene Ve
 
 ## License
 
-[MIT]
+[MIT](LICENSE.md)
