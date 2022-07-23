@@ -1,4 +1,4 @@
-# Webasto Telestart
+# Webasto GSM-Fernbedienung
 
 Dies ist ein kleines Projekt von  mir, was ich vor ein paar Jahren umgesetzt habe. Gesteuert wird eine Webasto Thermo Top Evo 5, sollte allerdings mit allen anderen Standheizungen auch funktionieren, da nur der "Tastendruck" an der Controlunit simuliert wird. 
 
