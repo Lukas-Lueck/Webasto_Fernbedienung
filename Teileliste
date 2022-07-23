@@ -1,0 +1,11 @@
+- Step-Down Modul LM2596 (oder ähnlich, Anforderung: 12V-> 5V, min. 2,5A)
+- Arduino Pro mini, 5V-Version
+- SIM800L EVB 2.2
+- Lochrasterplatine
+- GSM-Antenne (für Einbau in Fzg. idealerweise Klebeantenne
+- Gehäuse
+- Prepaid SIM-Karte, Vodafone empfohlen
+- Widerstände: 10kOhm; 2,2kOhm
+- Transistor 9024 oder ähnlich, ggf. Widerstände anpassen
+- Shotkydiode BAT43 (Schaltcharakteristik des Transistors wird verbessert)
+- Steckverbindung, Kabel
