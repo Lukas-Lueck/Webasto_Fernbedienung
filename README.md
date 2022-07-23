@@ -11,3 +11,7 @@ Wird das Modul von einer im Code festgelegten Nummer angerufen, wird zur Bestät
 Angeklemmt wird das Modul im Fzg. auf Klemme 30 und 31, die Signalleitung des Moduls muss in der Konttrolleinheit verlötet werden (Lötpunkt siehe Bild Control_Unit). Bei meinem Fzg. habe ich bei verbautem Modul einen Ruhestrom von 84 mA, was durchaus im Rahmen liegt (mit ausgelöteten Kontroll-LED's vom Arduino/GSM-Shield).
 
 Hinweis: Das Verbauen und Betreiben des Moduls im Fahrzeug erfolgt auf eigene Verantwortung! Ich übernehme keinerlei Haftung für evlt. auftretende (Personen-)Schäden. Siehe auch -> LICENSE
+
+## License
+
+[MIT]
