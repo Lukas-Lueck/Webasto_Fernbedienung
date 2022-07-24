@@ -8,4 +8,4 @@
 - Widerstände: 10kOhm; 2,2kOhm
 - Transistor 9024 oder ähnlich, ggf. Widerstände anpassen
 - Shotkydiode BAT43 (Schaltcharakteristik des Transistors wird verbessert)
-- Steckverbindung, Kabel
+- Steckverbindung, Kabel, Sicherung (5A)
